@@ -12,9 +12,9 @@ TAs: Wei-Wei Liu, Ying-Tian Chi
 
 ## 金融大数据部分
 
-课程内容
+课程内容：Python学习、聚宽平台操作、数据管理语言SQL、数据库系统（面向金融大数据）
 
-课程安排
+[课程安排](Schedule)
 
 ## 目录结构
 
