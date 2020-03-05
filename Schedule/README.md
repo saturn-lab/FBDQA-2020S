@@ -12,9 +12,9 @@ Bring Your Laptop to Class.
 |   1       | [WW3](../WW3/WW3-Plan.md) |  讲课    |     CZ     |         |
 |   1       | [WW4](../WW4/WW4-Plan.md) |  讲课    |     CZ     |         |
 |   1       | [WW5](../WW5/WW5-Plan.md) |  讲课    |     CZ     |         |
-|   1       | [WW6](../WW2/WW2-Plan.md) |  讲课    |     CZ     |         |
-|   1       | [WW7](../WW2/WW2-Plan.md) |  讲课    |     CZ     |         |
-|   1       | [WW8](../WW2/WW2-Plan.md) |  讲课    |     CZ     |         |
+|   1       | [WW6](../WW6/WW6-Plan.md) |  讲课    |     CZ     |         |
+|   1       | [WW7](../WW7/WW7-Plan.md) |  讲课    |     CZ     |         |
+|   1       | [WW8](../WW8/WW8-Plan.md) |  讲课    |     CZ     |         |
 
 
 
