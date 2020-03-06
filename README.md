@@ -1,4 +1,4 @@
-# FBDQA-2020Spring
+# FBDQA-2020Spring  (WeYoung Class)
 
 金融大数据与量化分析： Financial Big Data and Quantitative Analytics
 
