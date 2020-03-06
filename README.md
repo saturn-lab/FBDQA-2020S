@@ -1,8 +1,8 @@
-# FBDQA-2020Spring  (WeYoung Class)
+# FBDQA-2020Spring  (For WeYoung Class)
 
 金融大数据与量化分析： Financial Big Data and Quantitative Analytics
 
-详见：https://github.com/plouto-quants/FBDQA-2020S 
+For Lotus Class, See：https://github.com/plouto-quants/FBDQA-2020S 
 
 ## 教师与助教
 
