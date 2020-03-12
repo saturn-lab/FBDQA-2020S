@@ -8,3 +8,6 @@ Bring Your Laptop to Class.
 |    1     | SQL语言   |  讲课   |    GM/CZ     |        |
 |    2     | 量化交易案例实践 |  讲课   |    LYF     |   70-80 min     |
 |    3     | 分组讨论 |   讨论semniar   |    WH     |    20min     |
+
+
+大家注意：勿上传``有版权``的课程参考资料。
