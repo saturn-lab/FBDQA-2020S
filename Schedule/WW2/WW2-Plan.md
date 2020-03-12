@@ -8,3 +8,6 @@ Bring Your Laptop to Class.
 |    1     | Python使用   |  讲课   |    CZ     |        |
 |    2     | 聚宽平台使用   |  讲课   |    CZ     |        |
 |    3     | 量化体系   |  讲课   |    WH     |        |
+
+
+大家注意：勿上传``有版权``的课程参考资料。
