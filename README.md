@@ -20,7 +20,7 @@ TAs: Wei-Wei Liu, Ying-Tian Chi
 
 - Computing / 计算基础与python学习
 - Schedule / 课程每周安排
-
+- Study-Memo / 学习小结目录
 
 
 
