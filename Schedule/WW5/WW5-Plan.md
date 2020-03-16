@@ -8,6 +8,6 @@ Bring Your Laptop to Class.
 |    3     | TB |  讲课   |    LYF     |   20 min     |
 |    4     | 评价指标 |  讲课   |    LYF     |   20 min     |
 |    5     | alpha分解 |  讲课   |    LYF     |   20 min     |
-|    6     | 下次课展望 |  讲课   |    LYF     |      |
+|    6     | 下次课展望 |  讲课   |  instructor  |      |
 
 大家注意：勿上传``有版权``的课程参考资料。
