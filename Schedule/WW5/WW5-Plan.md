@@ -4,10 +4,11 @@ Bring Your Laptop to Class.
 
 |时间段     |  内容    | 讲课 / 实践     |  分工  |备注       |
 | :---     |   :----:    |   :----:    |    :----:    |       ---: |
-|    0     | [回顾上节课](../WW4/WW4-Plan.md)         |  CZ   |     TAs     |        |
-|    1     | SQL语言II   |  讲课   |    GM      |    45 min    |
-|    2     | SQLite实践：SQL语言II   |  实践   |    WHY     |    45 min    | 
-|    3     | [postgresql安装](http://postgresql.org)   |   实践    | WHY | optional |
+|    0     | [回顾上节课](../WW4/WW4-Plan.md)   |  CZ   |    TAs  |   2分钟  |
+|    1     | Why Data System?   |   讲课    |     CZ     |   10分钟      |
+|    2     | SQL语言II   |  讲课   |    GM      |    30 min    |
+|    3     | SQLite实践：SQL语言II   |  实践   |    WHY     |    5 min    | 
+|    4     | [postgresql安装](http://postgresql.org)   |   实践    | WHY | 5min |
 
 |时间段     |  内容    | 讲课 / 实践     |  分工  |备注       |
 | :---     |   :----:    |   :----:    |    :----:    |       ---: |
