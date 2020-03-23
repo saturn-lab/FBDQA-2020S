@@ -12,7 +12,7 @@ Bring Your Laptop to Class.
 | :---     |   :----:    |   :----:    |    :----:    |       ---: |
 |    1     | 期权交易策略 |  讲课   |    SZJ     |   80 min     |
 |    2     | 几个策略介绍 |  讲课   |    LWW     |   optional    |
-|    3     | [展望下节课](../WW6/WW6-Plan.md)     |  CZ   |          |        |
+|    3     | [展望下节课](../WW8/WW8-Plan.md)     |  CZ   |          |        |
 
 
 
