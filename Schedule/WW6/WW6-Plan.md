@@ -6,8 +6,7 @@ Bring Your Laptop to Class.
 | :---     |   :----:   |   :----:    |    :----:    | ---: |
 |    0     | [回顾上节课](../WW5/WW5-Plan.md)   |  CZ   |          |        |
 |    1     | SQL语言III   |  讲课   |    GM     |    45 min    |
-|    2     | Advanced SQL: PLpython   |  讲课  |    CYT     |    15 min    |
-|    3     | postgresql实践  |  实践   |  WHY  |    5 min    |
+
 
 
 
