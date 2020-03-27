@@ -6,7 +6,8 @@ Bring Your Laptop to Class.
 | :---     |   :----:  |   :----:    |    :----:    |       ---: |
 |    0     | [回顾上节课](../WW6/WW6-Plan.md)     |  CZ   |          |        |
 |    1     | Advanced SQL   |  讲课   |    CYT     |    45 min    |
-|    2     | TimeScaleDB/InfluxDB   |  讲课   |    CYT/WHY     |    45 min    |postgresql
+|    2     | TimeScaleDB/InfluxDB   |  讲课   |    CYT/WHY     |    45 min    | 
+|    3     | postgresql实践  |  实践   |  WHY  |    5 min    |postgresql
 
 
 
