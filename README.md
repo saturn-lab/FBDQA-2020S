@@ -22,5 +22,9 @@ TAs: Wei-Wei Liu, Ying-Tian Chi
 - Schedule / 课程每周安排
 - Study-Memo / 学习小结目录
 
+## Notice:
 
+This course is targeted to general education in a sense, and appropriate for students with lit programming skills with one language.
+
+I would be very grateful if you post your feedback as an issue or pull request in this GitHub.
 
