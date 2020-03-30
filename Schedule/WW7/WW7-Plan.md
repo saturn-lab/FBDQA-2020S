@@ -5,8 +5,8 @@ Bring Your Laptop to Class.
 |时间段     |  内容    | 讲课 / 实践     |  分工  |备注       |
 | :---     |   :----:  |   :----:    |    :----:    |       ---: |
 |    1     | [回顾上节课](../WW6/WW6-Plan.md)     |  CZ   |          |        |
-|    2     | Advanced SQL   |  讲课   |    CYT     |    45 min    |
-|    3     | PLPython   |  讲课   |    CYT     |    45 min    |
+|    2     | Advanced SQL   |  讲课   |    CYT     |    20 min    |
+|    3     | PLPython   |  讲课   |    CYT     |    20 min    |
 
 
 
