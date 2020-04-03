@@ -30,7 +30,7 @@ TAs: Wei-Wei Liu, Ying-Tian Chi
 
 ## Notice:
 
-This course is targeted to general education in a sense, and appropriate for students with lit programming skills with one language.
+This course is targeted to general education in a sense, and appropriate for students with programming skills with one language and more.
 
 I would be very grateful if you post your feedback as an issue or pull request in this GitHub.
 
