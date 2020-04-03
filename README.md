@@ -14,11 +14,11 @@ TAs: Wei-Wei Liu, Ying-Tian Chi
 
 [金融大数据](https://github.com/saturn-lab/FBDQA-2020S/wiki/金融大数据-教学计划)
 
-课程单元内容：Python学习、聚宽平台SDK操作、数据管理语言SQL、数据系统（金融大数据）等
+课程单元内容：Python学习、数据管理语言SQL、数据系统（金融大数据）等
 
 [量化交易](https://github.com/saturn-lab/FBDQA-2020S/wiki/量化交易-教学计划)
 
-课程单元内容：量化交易体系、量化交易指标、量化交易评价，期权等
+课程单元内容：聚宽平台SDK操作、量化交易体系、量化交易指标、量化交易评价，期权等
 
 [课程安排](Schedule)
 
