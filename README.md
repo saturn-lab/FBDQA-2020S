@@ -10,9 +10,15 @@ Instructor: [Zhen Chen](http://www.icenter.tsinghua.edu.cn/faculty/chenzhen/)、
 
 TAs: Wei-Wei Liu, Ying-Tian Chi
 
-## 金融大数据部分
+## 课程内容
 
-课程内容：Python学习、聚宽平台SDK操作、数据管理语言SQL、数据库系统（面向金融大数据）
+[金融大数据](https://github.com/saturn-lab/FBDQA-2020S/wiki/金融大数据-教学计划)
+
+课程单元内容：Python学习、聚宽平台SDK操作、数据管理语言SQL、数据系统（金融大数据）等
+
+[量化交易](https://github.com/saturn-lab/FBDQA-2020S/wiki/量化交易-教学计划)
+
+课程单元内容：量化交易体系、量化交易指标、量化交易评价，期权等
 
 [课程安排](Schedule)
 
