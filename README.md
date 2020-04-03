@@ -6,7 +6,7 @@ For Lotus Class of RainClassroom, See：https://github.com/plouto-quants/FBDQA-2
 
 ## 教师与助教
 
-Instructor: [Zhen Chen](http://www.icenter.tsinghua.edu.cn/faculty/chenzhen/)、Hao Wang 
+Instructor: [Zhen Chen](http://www.icenter.tsinghua.edu.cn/faculty/chenzhen/)、Hao Wang etc.
 
 TAs: Wei-Wei Liu, Ying-Tian Chi
 
