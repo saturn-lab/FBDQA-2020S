@@ -6,8 +6,8 @@ Bring Your Laptop to Class.
 |  时间段  |  内容    | 讲课 / 实践     |  分工  |备注       |
 | :---     |   :----:    |   :----:    |    :----:    |       ---: |
 |    1     | [展望下节课](../WW8/WW8-Plan.md)     |  CZ   |          |        |
-|    2     |  大数据GreenPlum |  讲课   |    WH/CZ/TAs     |   45*3 min    |
-|    3     |  策略诊断     |    WH      |   45*2 min     |
+|    2     |  大数据GreenPlum |  讲课   |    Yao Yandong     |   1*45 min    |
+|    3     |  策略诊断     |    WH      |   2*45 min     |
 |    4     | [展望下节课](../../Weeks/WW10/WW10-Plan.md)     |  CZ   |          |        |
 
 
