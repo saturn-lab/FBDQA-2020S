@@ -7,10 +7,10 @@ Bring Your Laptop and smart phone to Class.
 
 |  时间段  |  内容    | 讲课 / 实践     |  分工  |备注       |
 | :---    |   :----:    |   :----:    |    :----:    |       ---: |
-|    1    | [展望下节课](WW10/WW10-Plan.md)    |  CZ   |        |        |
+|    1    | [展望下节课](../WW11/WW11-Plan.md)    |  CZ   |        |        |
 |    2     |       |  讲课   |         |       |
 |    3     |       |    WH      |        ||
-|    4     | [展望下节课](WW12/WW12-Plan.md)     |  CZ   |      |        |
+|    4     | [展望下节课](WW14/WW14-Plan.md)     |  CZ   |      |        |
 
 
 
