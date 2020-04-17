@@ -1,8 +1,5 @@
  
 
-Bring Your Laptop and smart phone  to Class. 
-
-
 2020-04-17
 
 Bring Your Laptop to Class. 
