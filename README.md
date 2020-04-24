@@ -8,7 +8,7 @@
 
 Instructor: [Zhen Chen](http://www.icenter.tsinghua.edu.cn/faculty/chenzhen/)、Hao Wang etc.
 
-TAs: Wei-Wei Liu, Ying-Tian Chi
+TAs: Wei-Wei Liu, Ying-Tian Chi @chenyh19
 
 ## 课程内容
 
