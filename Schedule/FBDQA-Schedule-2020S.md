@@ -1,6 +1,6 @@
-# 教学计划
+# Financial Big Data and Quantitative Analytics
 
-## Big Data
+## 教学计划
 
 Bring Your Laptop to Class. 
 
