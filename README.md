@@ -1,8 +1,8 @@
 # FBDQA-2020Spring  
 
-(For WeYoung Class of RainClassroom)
+(For WeYoung Class of RainClassroom) For [Lotus Class](https://github.com/plouto-quants/FBDQA-2020S).
 
-金融大数据与量化分析： Financial Big Data and Quantitative Analytics
+金融大数据与量化分析： Financial Big Data and Quantitative Analytics, a.k.a FBDQA-2020S.
 
 ## 教师与助教
 
