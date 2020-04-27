@@ -11,7 +11,7 @@ Bring Your Laptop and smart phone to Class.
 |    2    |  业界嘉宾讲座1     |  讲课 |      嘉宾/WH      |   40 min    |
 |    2    |  实践案例分析     |  讲课 |      WH      |   40 min    |
 |    3    |  蒙特卡洛模拟及金融应用，期权估值     |    讲课     |    CYT    |   45 min  |
-|    4    | [展望下节课](WW14/WW14-Plan.md)     |  CZ   |      |        |
+|    4    | [展望下节课](../WW14/WW14-Plan.md)     |  CZ   |      |        | 
 
 
 
