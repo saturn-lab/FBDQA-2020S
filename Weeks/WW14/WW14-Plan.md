@@ -10,7 +10,7 @@ Bring Your Laptop and smart phone to Class.
 |    1    | [回顾节课](../WW13/WW13-Plan.md)    |  CZ   |        |        |
 |    2    |  业界嘉宾讲座2     |  讲课 |      嘉宾/WH      |   40 min    |
 |    2    |  策略准备    |  讲课 |      WH      |   40 min    |
-|    3    |       |    讲课     |        |     |
+|    3    |   金融数据分析的高性能Python    |    讲课     |   20 min     |     |
 |    4    | [展望下节课](WW15/WW15-Plan.md)     |  CZ   |      |        |
 
 
