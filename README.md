@@ -6,7 +6,7 @@
 
 ## 教师与助教
 
-Instructor: [Zhen Chen](http://www.icenter.tsinghua.edu.cn/faculty/chenzhen/)、Hao Wang etc.
+Instructors: Hao Wang, [Zhen Chen](http://www.icenter.tsinghua.edu.cn/faculty/chenzhen/) , Yinfei Liu, Min Guo, Haoyu Wang
 
 TAs: Wei-Wei Liu, Ying-Tian Chi @chenyh19
 
