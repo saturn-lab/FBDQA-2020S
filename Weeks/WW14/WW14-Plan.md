@@ -10,7 +10,7 @@ Bring Your Laptop and smart phone to Class.
 |    1    | [回顾上节课](../WW13/WW13-Plan.md)    |  简述   |   CZ     |        |
 |    2    |  业界嘉宾讲座2  |  讲课 |      嘉宾/WH      |   45 min    |
 |    3    |  因子检验，大作业策略准备    |  讲课  |      WH      |   50 min    |
-|    4    |  金融数据分析的高性能Python   |    讲课     |   WHY   |   30 min   |
+|    3    |  衍生品分析   |    讲课     |  LWW    |   30 min    |
 |    5    | [展望下节课](../WW15/WW15-Plan.md)     | 简述    |   CZ   |        |
 
 
